@@ -17,5 +17,5 @@ This project will be helpful for:
 ## Useful Links
 
 
-- [Capstone Project Link](https://pages.github.com)
+- [Capstone Project Link](https://github.com/GothicLolita229/IDontKnowHowButTheyFoundMe)
 - [Suggestions Box](http://linaresl1836.pythonanywhere.com)

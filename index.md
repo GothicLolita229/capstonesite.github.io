@@ -18,4 +18,4 @@ This project will be helpful for:
 
 
 - [Capstone Project Link](https://pages.github.com)
-- [Suggestions Box](https://linaresl1836.github.io/dev-blog)
+- [Suggestions Box](http://linaresl1836.pythonanywhere.com)

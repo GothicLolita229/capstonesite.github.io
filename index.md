@@ -23,6 +23,7 @@ This project will be helpful for:
 
 
 
-### Little Preview
+### Inital Prototype preview
+
 ![Ciara](https://user-images.githubusercontent.com/90853197/219964200-92f21177-96e4-4c85-98a4-17ab0f046976.png)
 

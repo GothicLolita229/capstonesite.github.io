@@ -1,3 +1,4 @@
+
 #### Kalie Kirsch, Marceia Patterson, Viana Butler, Ciara McLaughlin, Lourdes Linares
 
 # Our Capstone Project
@@ -19,3 +20,6 @@ This project will be helpful for:
 
 - [Capstone Project Link](https://github.com/GothicLolita229/IDontKnowHowButTheyFoundMe)
 - [Suggestions Box](http://linaresl1836.pythonanywhere.com)
+
+
+![kalie](https://user-images.githubusercontent.com/90853197/219964140-9151a4e1-15e0-43e5-8df4-7ef454385c7a.png)

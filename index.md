@@ -1,6 +1,3 @@
-
-#### Kalie Kirsch, Marceia Patterson, Viana Butler, Ciara McLaughlin, Lourdes Linares
-
 # Our Capstone Project
 
 

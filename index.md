@@ -17,7 +17,7 @@ This project will be helpful for:
 
 ## Useful Links
 
-
+- [This Website](https://gothiclolita229.github.io/capstonesite.github.io/)
 - [Capstone Project Link](https://github.com/GothicLolita229/IDontKnowHowButTheyFoundMe)
 - [Suggestions Box](http://linaresl1836.pythonanywhere.com)
 
@@ -26,4 +26,10 @@ This project will be helpful for:
 ### Inital Prototype preview
 
 ![Ciara](https://user-images.githubusercontent.com/90853197/219964200-92f21177-96e4-4c85-98a4-17ab0f046976.png)
+
+### Chief Technology Officer: Ciara McLaughlin
+### Marketing: Marceia Patterson
+### Build Manager/Database Manager: Kalie Kirsch
+### Scrum Master: Lourdes Linares
+### Non-Human Resources: Viana Butler
 

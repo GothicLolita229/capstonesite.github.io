@@ -24,6 +24,10 @@ This project will be helpful for:
 
 ![Ciara](https://user-images.githubusercontent.com/90853197/219964200-92f21177-96e4-4c85-98a4-17ab0f046976.png)
 
+### DataFlow Prototype
+
+![image](https://user-images.githubusercontent.com/90720471/221739360-2fa2065f-80b4-4bca-bccd-5eda8caa9cdb.png)
+
 ### Chief Technology Officer: Ciara McLaughlin
 ### Marketing: Marceia Patterson
 ### Build Manager/Database Manager: Kalie Kirsch
